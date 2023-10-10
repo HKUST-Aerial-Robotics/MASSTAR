@@ -20,8 +20,8 @@
 
 ### Datasets Download
 
-**come soon**
+*Download link*: stored in [Zenodo](https://zenodo.org/record/8416679)
 
 ## ToolChain
 
-**code come soon**
+**Code will come soon**
